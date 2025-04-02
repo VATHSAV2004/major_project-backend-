@@ -1,6 +1,8 @@
 ###
 GET http://localhost:3001/api/events
 
+###
+GET https://major-project-backend-4kbj.onrender.com/api/events
 
 ###
 
